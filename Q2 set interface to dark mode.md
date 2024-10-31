@@ -11,7 +11,7 @@
 url : https://answers.microsoft.com/en-us/windows/forum/all/how-can-i-make-an-application-display-in-dark-mode/1e6b723d-d9bc-48ab-bb61-7223bb2a978a
 
 
-### This url guves the information regarding
+### This url gives the information regarding
 
 #### Detailed steps for channging userinterface to darkmode
 
