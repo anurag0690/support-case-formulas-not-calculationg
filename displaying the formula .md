@@ -2,6 +2,6 @@
 
 # #Instead of showing the result they are displaying only the formula itself
   
-_when did you experienced this issue
+_ when did you experienced this issue
 
-_have you ecperienced this issue before 
+_ have you ecperienced this issue before 
